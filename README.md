@@ -7,6 +7,7 @@
     This will be used to hold any code you'd like to save for later in your own repository.
     All code shown today will be runnable in your Browser's devtools, so no additional tools will be required.
 
+# Notes for Discussion
 
 ## What and Why of Money
 
@@ -37,7 +38,7 @@ bitcoin describes the tokens that many think about.
 Software platform enabling ownership, privacy
 Currency, Trade
 
-## Exercises
+# Exercises
 
 1. Visualize the Timechain
 
