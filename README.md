@@ -175,6 +175,11 @@ We'll go through as much of the first 3 Challenges together..
 
 1. [Download Bitcoin Core](https://bitcoin.org/en/download)
 
+
+### Cloud Based Node
+
+1. [Voltage.cloud](https://voltage.cloud)
+
 ## TextBook
 
 [Mastering Bitcoin v3](https://github.com/bitcoinbook/bitcoinbook)
