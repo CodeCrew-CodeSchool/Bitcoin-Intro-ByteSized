@@ -158,6 +158,8 @@ We'll go through as much of the first 3 Challenges together..
 
 # Homework
 
+[Additional Bitcoin Knowledge - Bitcoin Diploma](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025)
+
 ## Curriculum
 
 [Learn Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
